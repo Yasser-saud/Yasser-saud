@@ -7,7 +7,6 @@
 
 
 
-- 🌱 I’m currently learning **Java, Angular**
 
 - 📫 How to reach me **ya-1417@outlook.com**
 
